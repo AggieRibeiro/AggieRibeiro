@@ -1,4 +1,4 @@
-### Habilidades:
+### Skills:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,3 +19,9 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:agathalyynd@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+99+91813586)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggieRibeiro)
+
+## Github stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
+
+## Minhas  Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AggieRibeiro&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/AggieRibeiro/dio-lab-open-source)

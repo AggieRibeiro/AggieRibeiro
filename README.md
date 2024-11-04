@@ -1,8 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 # Hello everyone...Meu nome é Ágatha Ribeiro 👋
 
-### Skills:
+## Sobre mim
+
+- 📚 Estudante do 3º ano do Ensino Médio no Instituto Federal do Maranhão - Campus Açailândia.
+- 👨‍💻 Como sou do IFMA, meu curso é Técnico em Informática.
+
+## Experiência
+
+- 🫐 Açaitour: Guia Turístico Mobile de Empreendimentos de Lazer e Passeio na Cidade de Açailândia.
+- 🌱 Ecotour: Dispositivo Mobile Para Recomendação De Balneários E Conscientização Ambiental Na Cidade De Açailândia.
+- 📁 Projetos de Extensão e Ensino.
+
+## Habilidades Pessoais
+
+- 🎤 Canto
+- 📝 Escrita
+- 🌐 Coordenação
+
+### Habilidades Profissionais:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +43,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+99+91813586)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggieRibeiro)
 
-## Github stats
+## Github stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro)
 <img align="left" alt="Agatha Ribeiro github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggieRibeiro" />

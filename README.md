@@ -1,6 +1,6 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 # Hello Everyone... Meu nome é Ágatha Ribeiro 👋
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### Sobre mim
 

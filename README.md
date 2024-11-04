@@ -2,7 +2,7 @@
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Hello everyone...Meu nome é Ágatha Ribeiro 👋
+# Hello Everyone... Meu nome é Ágatha Ribeiro 👋
 
 ## Sobre mim
 
@@ -42,6 +42,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:agathalyynd@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+99+91813586)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggieRibeiro)
+<a href = "https://instagram.com/https_agatah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Github stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro)

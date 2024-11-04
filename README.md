@@ -2,18 +2,18 @@
 
 # Hello Everyone... Meu nome é Ágatha Ribeiro 👋
 
-## Sobre mim
+### Sobre mim
 
 - 📚 Estudante do 3º ano do Ensino Médio no Instituto Federal do Maranhão - Campus Açailândia.
 - 👨‍💻 Como sou do IFMA, meu curso é Técnico em Informática.
 
-## Experiência
+### Experiência
 
 - 🫐 Açaitour: Guia Turístico Mobile de Empreendimentos de Lazer e Passeio na Cidade de Açailândia.
 - 🌱 Ecotour: Dispositivo Mobile Para Recomendação De Balneários E Conscientização Ambiental Na Cidade De Açailândia.
 - 📁 Projetos de Extensão e Ensino.
 
-## Habilidades Pessoais
+### Habilidades Pessoais
 
 - 🎤 Canto
 - 📝 Escrita

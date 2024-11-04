@@ -24,6 +24,4 @@
 
 ## Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
-
-## Minhas  Contribuições
 <img align="left" alt="Agatha Ribeiro github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggieRibeiro&theme=merko" />

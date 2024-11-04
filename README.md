@@ -25,5 +25,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggieRibeiro)
 
 ## Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro&theme=transparent&bg_color=122&border_color=40A5DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)
-<img align="left" alt="Agatha Ribeiro github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggieRibeiro&theme=merko" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AggieRibeiro)
+<img align="left" alt="Agatha Ribeiro github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggieRibeiro" />

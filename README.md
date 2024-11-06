@@ -38,7 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Contato:
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:agathalyynd@gmail.com)  
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:s.agatha@acad.ifma.edu.br)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggieRibeiro)
 <a href = "https://instagram.com/https_agatah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
